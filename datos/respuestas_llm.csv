@@ -1,0 +1,418 @@
+fila,Label,sin_reglas,motivo_sin_reglas,con_reglas,motivo_con_reglas
+355,1,phishing,mensaje con urgencia y solicitud de confirmación sospechosa,phishing,"uso de palabras como paquete, entrega, clic y urgencia en el mensaje"
+857,0,legitimo,comunicado oficial aclarando una situación y retirando una invitación,legitimo,contenido institucional y formal sin términos asociados a phishing
+484,1,phishing,mensaje alarmista con errores y llamada urgente a acción sospechosa,phishing,"uso de palabras relacionadas con pago y suscripción, tono urgente y repetitivo"
+527,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de información para entrega"
+460,1,phishing,oferta sospechosa con urgencia y errores en el texto,phishing,uso de palabras como recibir y oferta urgente
+469,1,phishing,mensaje con urgencia y enlace sospechoso para rastreo de paquete,phishing,"uso de palabras como paquete, entrega, recibir y clic, típico de phishing"
+955,0,legitimo,correo con comentarios detallados sobre correcciones de tesis,legitimo,contenido académico y formal sin palabras asociadas a phishing
+1260,0,legitimo,correo institucional con información específica y sin solicitudes sospechosas,legitimo,uso de términos institucionales y ausencia de palabras asociadas a phishing
+1265,0,phishing,mensaje genérico con enlace sospechoso y sin detalles específicos,legitimo,"uso de palabras como reembolso, aviso, confidencialidad y tono informativo"
+1044,0,legitimo,correo informativo de una empresa conocida sin solicitudes sospechosas,legitimo,uso de términos relacionados con seguridad y ausencia de palabras asociadas a phishing
+323,1,phishing,"mensaje con errores, urgencia y solicitud de acción sospechosa",phishing,"uso de palabras como cuenta, suscripción, clic, actualizar y urgencia en el mensaje"
+87,1,phishing,Solicita comprobar identidad mediante enlace sospechoso,phishing,uso de palabras como cuenta y comprobar identidad con enlace sospechoso
+1116,0,legitimo,correo con información clara y sin señales de phishing,legitimo,uso de palabras formales y contexto de evento sin términos asociados a phishing
+155,1,phishing,Urgencia y errores ortográficos sospechosos,phishing,uso de urgencia y actualización de documentos con enlace sospechoso
+990,0,legitimo,correo informativo sin solicitudes sospechosas,legitimo,contenido institucional y cordial sin palabras asociadas a phishing
+1328,0,legitimo,correo institucional con información clara y sin solicitudes sospechosas,legitimo,"uso de palabras como comunidad, saludos y ausencia de términos asociados a phishing"
+1179,0,legitimo,correo con detalles específicos y enlaces coherentes para un seminario web registrado,legitimo,contenido informativo y profesional sin palabras asociadas a phishing
+1352,0,legitimo,Correo típico de activación de cuenta sin señales sospechosas,phishing,uso de 'cuenta' y 'clic' para activar con enlace
+831,0,legitimo,comunicación interna formal sobre suspensión de labores,legitimo,comunicación formal y sin palabras asociadas a phishing
+1147,0,legitimo,correo con contexto profesional y aviso de confidencialidad oficial,legitimo,uso de términos formales y aviso de privacidad institucional
+965,0,legitimo,correo de seguimiento comercial con información coherente y sin señales de phishing,legitimo,correo de asesor inmobiliario con información clara y sin palabras asociadas a phishing
+755,0,legitimo,El correo contiene información coherente y detallada sobre funciones oficiales de Windows Insider sin solicitar datos personales ni enlaces sospechosos.,legitimo,contenido informativo sobre Windows Insider sin términos sospechosos
+1142,0,legitimo,conversación personal y sin solicitudes sospechosas,legitimo,conversación personal sin términos asociados a phishing
+770,0,legitimo,Correo con formato profesional y enlaces coherentes de una empresa conocida,legitimo,correo relacionado con webinar y términos claros de privacidad
+993,0,legitimo,correo con información detallada y contacto interno válido,legitimo,contenido formal y sin palabras asociadas a phishing
+312,1,phishing,mensaje vago y solicitud de descarga sospechosa,legitimo,"mensaje seguro y confidencial, sin palabras asociadas a phishing"
+1173,0,phishing,correo con detalles inconsistentes y uso sospechoso de PayPal,legitimo,correo con detalles específicos de pago y referencias a seguridad de PayPal
+593,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de información"
+1146,0,legitimo,correo con solicitud formal y coherente de documentos para proceso académico,legitimo,contenido formal y relacionado con procesos académicos sin palabras asociadas a phishing
+7,1,phishing,mensaje urgente con errores y solicitud de actualización de datos sospechosa,phishing,"uso de palabras como cuenta, suscripción, actualizar y urgencia en el mensaje"
+943,0,legitimo,mensaje institucional coherente y sin solicitudes sospechosas,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+342,1,phishing,mensaje genérico con urgencia y solicitud de información personal,phishing,"uso de palabras como paquete, entrega, recibir y clic en un contexto sospechoso"
+822,0,legitimo,mensaje institucional coherente y sin solicitudes sospechosas,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+987,0,legitimo,contenido coherente y sin solicitudes sospechosas,legitimo,contenido institucional y uso de palabras asociadas a comunicación oficial
+26,1,phishing,mensaje sospechoso con solicitud de ayuda y dinero,phishing,mensaje sospechoso de estafa con solicitud de ayuda y dinero
+913,0,legitimo,Correo con formato y detalles consistentes de Google Play,legitimo,múltiples referencias a Google y términos asociados a compras legítimas
+109,1,phishing,mensaje sospechoso con enlace para seguimiento y solicitud de acción urgente,phishing,"uso de palabras relacionadas con paquete y entrega, y llamado a clic sospechoso"
+1016,0,legitimo,invitación a evento académico con solicitud de datos comunes,legitimo,invitación a evento académico con lenguaje formal y sin términos asociados a phishing
+798,0,legitimo,correo con formato profesional y datos de contacto coherentes,legitimo,uso de términos formales y contacto nacional sin palabras sospechosas
+297,1,phishing,promesas de premios a cambio de encuestas sospechosas,phishing,"uso de palabras como encuesta, clic, ahora y oferta gratuita"
+144,1,phishing,mensaje con urgencia y enlaces sospechosos para obtener información personal,phishing,"uso de palabras relacionadas con paquete y entrega, y llamada a clic sospechosa"
+154,1,phishing,mensaje con urgencia y enlaces sospechosos para confirmar datos,phishing,"uso de palabras como paquete, entrega, suscripción y clic, y tono urgente"
+1126,0,legitimo,mensaje de condolencia institucional sin solicitudes sospechosas,legitimo,mensaje de condolencia de una comunidad institucional
+870,0,legitimo,Correo con formato formal y contenido coherente de una institución académica,legitimo,uso de términos formales y contexto académico sin palabras asociadas a phishing
+630,1,phishing,mensaje genérico y sospechoso sobre paquete no solicitado,phishing,"uso de palabras 'paquete', 'entrega' y urgencia para recibir"
+720,1,phishing,uso de lenguaje urgente y solicitud de información para entrega sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y tono urgente"
+813,0,legitimo,correo con información escolar común y sin indicios de phishing,legitimo,contenido relacionado con calendario escolar y saludo formal
+1128,0,legitimo,correo con formato formal y aviso de privacidad institucional,legitimo,"uso de palabras como privacidad, aviso y saludo, y contexto formal de seguimiento de queja"
+1247,0,phishing,uso sospechoso de enlace para descargar aplicación no oficial,legitimo,invitación formal de comunidad con saludo y detalles claros
+266,1,legitimo,correo de una institución educativa con información detallada y coherente,legitimo,contenido institucional y sin palabras asociadas a phishing
+176,1,phishing,mensaje urgente que presiona para hacer clic en un enlace sospechoso,phishing,uso de urgencia y amenaza para obtener clic en enlace
+1156,0,legitimo,Correo institucional con detalles específicos y aviso de confidencialidad,legitimo,"uso de palabras como privacidad, aviso y contexto académico formal"
+934,0,legitimo,contenido promocional de una institución educativa con información de contacto válida,legitimo,promoción educativa sin palabras asociadas a phishing
+1310,0,phishing,mensaje con urgencia y enlace sospechoso para verificar cuenta,phishing,"uso de palabras como cuenta, clic y urgencia para verificar"
+852,0,legitimo,mensaje institucional coherente y sin solicitudes sospechosas,legitimo,uso de palabras como compartir y comunicado formal sin términos sospechosos
+574,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de información"
+1166,0,legitimo,correspondencia coherente y sin indicios claros de phishing,legitimo,contenido relacionado con soporte técnico y sin palabras asociadas a phishing
+1152,0,legitimo,correo con comunicación coherente y sin solicitudes sospechosas,legitimo,contenido relacionado con pagos escolares y comunicación formal sin términos sospechosos
+197,1,phishing,solicitud de revisar factura adjunta sin detalles claros y posible intento de engaño,legitimo,uso de saludo formal y referencia a departamento universitario
+104,1,phishing,mensaje inesperado con promesa de premio y urgencia sospechosa,phishing,"uso de palabras como paquete, recibir, y urgencia para reclamar premio"
+1285,0,phishing,mensaje genérico con incentivos sospechosos y enlace potencialmente malicioso,legitimo,"uso de aviso de privacidad y términos, sin palabras típicas de phishing"
+42,1,phishing,mensaje con oferta sospechosa y enlaces dudosos,phishing,"uso de palabras como 'clic', 'pedido' y oferta sospechosa"
+494,1,phishing,mensaje con errores gramaticales y solicitud urgente de verificación mediante enlace,phishing,"uso de palabras como cuenta, clic, verificar y urgencia en 24 horas"
+505,1,legitimo,Correo promocional de evento de empresa reconocida con detalles coherentes y remitente verificado,legitimo,contenido corporativo claro y sin palabras asociadas a phishing
+757,0,legitimo,mensaje coherente y sin solicitudes sospechosas,legitimo,contenido formal y relacionado con comunicación oficial de la Secretaría
+236,1,phishing,mensaje confuso que mezcla Disney+ con música y urgencia para renovar mediante un enlace,phishing,"uso de palabras como suscripción, clic, renovar y urgencia para actualizar"
+605,1,phishing,mensaje alarmista con errores y enlace sospechoso para actualizar pago,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+462,1,phishing,solicita actualización urgente de información mediante enlace sospechoso,phishing,uso de urgencia y solicitud de actualización de información con enlace
+939,0,legitimo,mensaje institucional típico sin enlaces sospechosos,legitimo,contenido institucional y ausencia de palabras asociadas a phishing
+189,1,phishing,mensaje genérico y solicitud de contacto para información confidencial,phishing,mensaje vago y solicitud de respuesta para discusión confidencial
+241,1,phishing,mensaje sospechoso con urgencia y enlaces para confirmar datos,phishing,"uso de palabras como paquete, entrega, clic y confirmación"
+572,1,phishing,promesas de premios gratuitos y urgencia sospechosa,phishing,"uso de palabras como 'confirmar', 'recibir', 'ahora' y promesas de premios"
+693,1,phishing,mensaje genérico con urgencia y solicitud de información personal,phishing,"uso de palabras relacionadas con paquete y entrega, tono urgente y solicitud de información"
+249,1,phishing,mensaje genérico y urgencia para rastrear paquete sospechoso,phishing,"uso de palabras como paquete, entrega, confirmar y tono urgente"
+237,1,phishing,mensaje con urgencia y enlaces sospechosos para obtener información personal,phishing,"uso de palabras relacionadas con paquete y entrega, y llamado a clic sospechoso"
+392,1,phishing,enlaces sospechosos y urgencia para programar entrega,phishing,"uso de palabras como paquete, entrega, suscripción y enlaces sospechosos"
+476,1,phishing,mensaje urgente con solicitud de información y formato sospechoso,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de información"
+575,1,phishing,enlace sospechoso y urgencia para cambiar contraseña,phishing,uso de cuenta y enlace para cambiar contraseña sospechoso
+1263,0,legitimo,"Correo común solicitando observaciones sobre una tesis, sin indicios de phishing.",legitimo,uso de palabras formales y saludo cordial
+300,1,phishing,mensaje genérico con solicitud de contacto y falta de detalles específicos,phishing,uso de palabras como fondo y pago con enlace sospechoso
+325,1,phishing,enlace sospechoso y falta de detalles verificables,phishing,"uso de enlace para descargar factura y palabras como 'recibió', 'descargar', 'aquí'"
+851,0,legitimo,correo con formato profesional y detalles específicos de compra,legitimo,"uso de palabras como privacidad, encuesta y aviso, y tono formal"
+1325,0,legitimo,correo con formato y contenido típico de notificación oficial de Google,legitimo,"uso de palabras relacionadas con privacidad y configuración de cuenta, y contexto coherente con un correo oficial de Google"
+281,1,phishing,mensaje urgente con errores y solicitud de acción sospechosa,phishing,"uso de palabras como paquete, entrega, suscripción y urgencia"
+100,1,phishing,mensaje con errores y solicitud de acción urgente sospechosa,phishing,"uso de palabras como paquete, entrega, confirme ahora y tono urgente"
+309,1,phishing,promesas de ganancias fáciles y solicitud de depósito inicial sospechosa,phishing,"uso de palabras como cuenta, ahora, y llamado a acción para depósito"
+357,1,phishing,mensaje urgente con enlace para actualizar datos de pago sospechoso,phishing,"uso de palabras como pago, cuenta, actualizar y urgencia en acción"
+795,0,legitimo,contenido coherente y sin solicitudes sospechosas,legitimo,contenido institucional y ausencia de palabras asociadas a phishing
+1032,0,phishing,"dirección y empresa sospechosas, contenido genérico y errores en el texto",legitimo,"uso de palabras como privacidad, saludo y ausencia de términos asociados a phishing"
+1241,0,legitimo,correo con información coherente y sin solicitudes sospechosas,legitimo,uso de términos formales y presencia de aviso de privacidad
+966,0,legitimo,correo institucional con instrucciones claras y coherentes para entrega de obsequio,legitimo,contenido institucional y sin palabras asociadas a phishing
+1055,0,phishing,correo solicita acceso con usuario y contraseña en texto plano,legitimo,contenido académico y formal sin palabras asociadas a phishing
+1361,0,phishing,uso de enlaces sospechosos y contenido oculto en el correo,legitimo,invitación a encuesta sin palabras asociadas a phishing
+1307,0,phishing,mensaje genérico con falta de detalles específicos y posible intento de obtener datos personales,legitimo,contenido formal y relacionado con trámite oficial
+79,1,phishing,contenido confuso y formato sospechoso,legitimo,asunto técnico y sin palabras asociadas a phishing
+282,1,phishing,"solicita pago y acción urgente para liberar paquete, típico de fraude",phishing,"uso de palabras como paquete, clic, confirmar y urgencia sospechosa"
+619,1,phishing,mensaje genérico con urgencia y enlace sospechoso para confirmar datos,phishing,"uso repetido de palabras relacionadas con paquete y entrega, típico de phishing"
+954,0,legitimo,correo con contenido académico detallado y sin indicios de fraude,legitimo,contenido académico y formal sin palabras asociadas a phishing
+514,1,phishing,solicita cambio de contraseña mediante enlace sospechoso,phishing,"uso de palabras como cuenta, cambiar contraseña y urgencia"
+902,0,legitimo,correo con contenido institucional y sin enlaces sospechosos,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+1165,0,legitimo,correspondencia formal y coherente entre partes conocidas,legitimo,uso de términos formales y contexto institucional sin palabras asociadas a phishing
+141,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+1225,0,legitimo,correo con información institucional y sin solicitudes sospechosas,legitimo,contenido institucional y formal sobre premio nacional
+8,1,phishing,mensaje con errores y solicitud de información sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y tono urgente"
+429,1,phishing,solicitud de transferencia de fondos y datos personales sospechosa,phishing,solicitud de fondos y mensaje sospechoso
+330,1,phishing,mensaje con urgencia y solicitud de acción para evitar cargos sospechosos,phishing,"uso de palabras como paquete, entrega, confirmar y urgencia con signos de exclamación"
+485,1,phishing,mensaje confuso y uso sospechoso de símbolos para aparentar legitimidad,phishing,menciones de pago y transferencia sospechosas
+963,0,phishing,solicita pago pendiente sin detalles claros ni verificación,legitimo,uso de saludo cordial y ausencia de palabras asociadas a phishing
+1050,0,legitimo,correo con información específica y sin solicitudes sospechosas,legitimo,contenido académico y saludo formal
+655,1,phishing,promesas de premios y urgencia sospechosas,phishing,"uso excesivo de palabras urgentes y confirmación, típico de phishing"
+702,1,phishing,mensaje vago con llamada a acción sospechosa y formato inconsistente,phishing,uso de palabras como pedido y clic con tono urgente
+536,1,phishing,promesas de premios inesperados y urgencia para reclamar,phishing,uso de palabras como recibir y clic para premio sospechoso
+775,0,legitimo,correo institucional con información coherente y sin indicios de phishing,legitimo,invitación formal de comunidad científica sin palabras asociadas a phishing
+1237,0,legitimo,correo con lenguaje formal y detalles específicos de un procedimiento oficial,legitimo,uso de términos formales y aviso de confidencialidad institucional
+654,1,phishing,uso de marcador genérico <CORREO> como contraseña y falta de detalles específicos,phishing,uso de contraseña para acceder a factura y contexto de compra sospechoso
+828,0,legitimo,lenguaje informal y solicitud interna típica,legitimo,tono informal y solicitud de documento sin palabras asociadas a phishing
+410,1,phishing,mensaje urgente con enlace sospechoso y errores en el texto,phishing,"uso de palabras como paquete, entrega, clic y suscripción con urgencia"
+66,1,phishing,mensaje con errores ortográficos y solicitud sospechosa de confirmación de dirección,phishing,"uso de palabras como paquete, entrega, clic y solicitud de confirmación"
+11,1,phishing,fecha inválida y contenido confuso sugieren intento de engaño,phishing,uso de palabras 'paquete' y 'entrega' y asunto con símbolo especial
+1278,0,legitimo,"El correo contiene información coherente y detallada sobre Google One, sin solicitudes sospechosas ni enlaces engañosos evidentes.",legitimo,múltiples referencias a Google One y servicios oficiales con enlaces coherentes
+791,0,legitimo,mensaje informativo común sin indicios de fraude,legitimo,uso de palabras formales y contexto educativo sin términos asociados a phishing
+746,0,phishing,enlace sospechoso y urgencia para restablecer contraseña,phishing,solicitud de cambio de contraseña con enlace sospechoso
+216,1,phishing,mensaje urgente con enlace sospechoso y falta de detalles claros,phishing,"uso de palabras como paquete, entrega, suscripción y urgencia"
+1332,0,legitimo,mensaje coherente con notificación oficial de Google Takeout,legitimo,múltiples referencias a privacidad y enlaces a políticas oficiales
+489,1,phishing,mensaje genérico con urgencia y enlace sospechoso para confirmar datos,phishing,"uso repetido de palabras relacionadas con paquete y entrega, típico de phishing"
+781,0,legitimo,mensaje institucional coherente y sin solicitudes sospechosas,legitimo,uso de términos formales y contexto institucional sin palabras asociadas a phishing
+338,1,phishing,mensaje con errores y solicitud sospechosa de acción,phishing,uso de palabras relacionadas con paquete y clic en contexto sospechoso
+561,1,phishing,mensaje alarmista y sin detalles específicos,phishing,uso de palabras alarmantes y urgentes relacionadas con cuenta y eliminación
+649,1,phishing,"mensaje alarmista y con errores, típico de intentos de phishing",phishing,uso de alerta urgente y mayúsculas para presionar al usuario
+1197,0,legitimo,mensaje institucional coherente y sin solicitudes sospechosas,legitimo,contenido institucional y uso de palabras asociadas a comunicación formal
+86,1,phishing,mensaje con errores y amenaza de suspensión para inducir urgencia,phishing,"uso de palabras como cuenta, cancelar, enlace y amenaza de suspensión"
+789,0,legitimo,correo con información detallada y formal sobre fondo de ahorro institucional,legitimo,uso de términos formales y ausencia de palabras asociadas a phishing
+708,1,phishing,mensaje genérico y falta de detalles específicos,phishing,uso de palabras 'paquete' y 'entregado' en contexto sospechoso
+564,1,phishing,promesa de dinero inesperado y solicitud de información personal,phishing,promesa de dinero y solicitud de datos personales
+1303,0,phishing,mensaje genérico con enlaces sospechosos y presión para actuar rápido,phishing,"uso de palabras como cuenta, cloud, eliminar, reactivar y enlace sospechoso"
+186,1,phishing,mensaje con errores y solicitud urgente de datos de pago,phishing,"uso de palabras como cuenta, suscripción, actualizar y urgencia en el mensaje"
+1001,0,legitimo,mensaje institucional claro y sin solicitudes sospechosas,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+289,1,phishing,mensaje confuso y solicitud inusual de documentos sin contexto claro,legitimo,contenido relacionado con facturación y procedimientos formales
+554,1,phishing,mensaje urgente con errores y solicitud de acción inmediata,phishing,"uso de palabras como paquete, entrega, código de seguimiento y urgencia"
+1131,0,legitimo,contenido técnico detallado y coherente sin solicitudes sospechosas,legitimo,contenido técnico y profesional sin palabras asociadas a phishing
+1322,0,legitimo,correo promocional coherente de BetterMe con oferta y detalles claros,legitimo,oferta promocional con detalles claros y sin palabras típicas de phishing
+1388,0,legitimo,correo con formato y contenido coherente de Duolingo,legitimo,contenido relacionado con logros y aprendizaje sin términos sospechosos
+471,1,phishing,promesa de premio gratuito y urgencia sospechosa,phishing,"uso de palabras como recibir, ahora y tono urgente para obtener premio"
+687,1,phishing,mensaje confuso con enlace sospechoso y solicitud de acceso,phishing,uso de enlace sospechoso y solicitud de acceso con código
+391,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de información"
+738,0,phishing,enlaces sospechosos y mensaje genérico sin personalización,legitimo,uso de términos legales y datos de contacto claros
+545,1,phishing,mensaje urgente y genérico que busca inducir acción rápida,phishing,uso de palabras urgentes y actualización sospechosa
+347,1,phishing,mensaje con errores y solicitud de acción sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y llamada a clic sospechosa"
+1105,0,legitimo,correo institucional con lenguaje formal y sin solicitudes sospechosas,legitimo,uso de lenguaje formal y contexto institucional claro
+1367,0,legitimo,correo con información detallada y enlaces coherentes de una institución educativa,legitimo,contenido institucional con aviso de privacidad y sin palabras asociadas a phishing
+1379,0,phishing,inconsistencia en el modelo del dispositivo y URLs sospechosas,legitimo,mención clara de Google y configuración de dispositivo
+72,1,phishing,"mensaje con errores, urgencia y enlaces sospechosos",phishing,"uso de palabras como cuenta, suscripción, clic y actualizar con tono urgente"
+1117,0,legitimo,correo institucional con información detallada y coherente sobre un programa académico,legitimo,contenido institucional y académico sin términos asociados a phishing
+283,1,phishing,mensaje urgente con enlace sospechoso y errores en el texto,phishing,"uso de palabras como paquete, entrega, clic y suscripción con urgencia"
+646,1,phishing,mensaje urgente con premio inesperado y solicitud de confirmación,phishing,uso repetido de palabras urgentes y confirmación inmediata
+1351,0,legitimo,correo con detalles claros de compra y contacto oficial,legitimo,correo de confirmación de compra con aviso de privacidad y sin palabras asociadas a phishing
+49,1,legitimo,correo institucional solicitando encuesta interna sin indicios de fraude,legitimo,"uso de palabras relacionadas con encuesta y salud, sin términos típicos de phishing"
+305,1,phishing,mensaje urgente con errores y solicitud de actualización de datos,phishing,"uso de palabras como cuenta, actualizar, pago y tono urgente"
+432,1,phishing,mensaje alarmista con solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+218,1,phishing,mensaje genérico con solicitud de contacto externo,phishing,solicitud de contacto por correo personal y oferta comercial sospechosa
+110,1,phishing,promesas de premios inesperados y urgencia para reclamar,phishing,uso de palabras como recibir y clic en contexto de premio sospechoso
+363,1,phishing,mensaje urgente con enlace sospechoso y errores en el texto,phishing,"uso de palabras como paquete, entrega, clic y solicitud de verificación"
+802,0,legitimo,correo con información detallada y contacto oficial de la empresa,legitimo,"uso de términos relacionados con privacidad y aviso, y ausencia de palabras típicas de phishing"
+377,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como suscripción, pago, actualizar y amenaza de borrar fotos"
+1121,0,legitimo,Correo con información detallada y coherente de una convocatoria oficial,legitimo,contenido formal y relacionado con convocatoria oficial
+889,0,legitimo,Correo con contenido coherente y sin indicios claros de phishing.,legitimo,saludo cordial y ausencia de palabras asociadas a phishing
+171,1,phishing,mensaje confuso con múltiples temas y enlaces sospechosos,phishing,"uso de palabras como paquete, recibir, clic y cuenta en un contexto sospechoso"
+441,1,phishing,mensaje con premio inesperado y urgencia para reclamar,phishing,"uso de palabras como recibir, clic y premio junto con signos de exclamación"
+255,1,phishing,"mensaje con urgencia, errores y enlaces sospechosos",phishing,"uso de palabras como cuenta, suscripción, actualizar y urgencia sospechosa"
+1076,0,phishing,enlace sospechoso para cambiar contraseña y posible suplantación de identidad,phishing,uso de enlace para cambiar contraseña y alerta de cuenta sospechosa
+715,1,phishing,mensaje genérico con urgencia y solicitud de información personal,phishing,"uso de palabras relacionadas con paquete y entrega, y tono urgente"
+46,1,phishing,promesas de premios exclusivos y solicitud de respuesta para reclamar,phishing,"uso de palabras como 'pedido', 'recibir', 'ahora' y tono urgente para obtener datos"
+136,1,phishing,mensaje genérico con datos incompletos y solicitud de contacto sospechoso,phishing,mención de transferencia y cuenta sin confirmación segura
+499,1,phishing,mensaje urgente con promesas de dinero fácil y presión para actuar rápido,phishing,uso excesivo de palabras urgentes y de pago para inducir a clic
+1309,0,legitimo,oferta clara y enlaces de baja suscripción presentes,legitimo,oferta de curso con suscripción y opciones claras de pago y cancelación
+449,1,phishing,solicita activar un sistema mediante un enlace sospechoso,phishing,"uso de palabras como activar, ahora y enlace para gestionar tarjeta"
+444,1,legitimo,promoción clara y sin solicitudes sospechosas,legitimo,promoción clara sin términos asociados a phishing
+288,1,phishing,promesas de premios inesperados y urgencia para reclamar,phishing,"uso de palabras como 'recibir', 'has sido seleccionado' y tono de premio sospechoso"
+83,1,legitimo,mensaje coherente y sin indicios de fraude,legitimo,contenido comunitario y sin palabras asociadas a phishing
+351,1,phishing,solicita confirmación de identidad y documentos personales de forma sospechosa,phishing,"uso de cuenta, confirmar identidad y actividad sospechosa"
+1366,0,phishing,múltiples enlaces sospechosos y falta de personalización,phishing,uso repetido de 'aquí' y 'clic' implícito en enlaces sospechosos
+835,0,phishing,mensaje genérico con archivo adjunto inesperado,legitimo,uso de saludo formal y contexto académico sin palabras asociadas a phishing
+414,1,phishing,mensaje urgente con solicitud de información y formato sospechoso,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de información"
+59,1,phishing,mensaje genérico con enlace sospechoso y sin detalles específicos,phishing,"uso de palabras 'paquete', 'entrega' y 'clic' en contexto sospechoso"
+1159,0,legitimo,Correo con intercambio profesional y sin indicios de fraude,legitimo,contenido relacionado con coordinación académica sin términos asociados a phishing
+907,0,legitimo,correo con información clara y sin solicitudes sospechosas,legitimo,contenido relacionado con inscripción escolar y sin palabras asociadas a phishing
+903,0,legitimo,oferta educativa clara con opción de cancelación,legitimo,oferta educativa clara y sin términos sospechosos
+1339,0,legitimo,El correo contiene detalles específicos y lenguaje formal típico de atención al cliente oficial,legitimo,"uso de palabras como caso, saludo, y ausencia de términos asociados a phishing"
+1011,0,legitimo,correo con invitación institucional clara y sin solicitudes sospechosas,legitimo,invitación a webinar con lenguaje formal y aviso de privacidad
+688,1,phishing,mensaje con oferta sospechosa y enlaces para hacer clic,phishing,"uso de palabras como 'paquete', 'clic', y tono de ganancia sospechoso"
+1364,0,phishing,enlaces sospechosos y falta de información oficial clara,legitimo,uso de palabras asociadas a legitimidad y contexto educativo sin términos sospechosos
+456,1,phishing,mensaje genérico que induce a hacer clic para confirmar datos,phishing,uso de palabras relacionadas con paquete y confirmar
+478,1,phishing,uso de emojis y lenguaje urgente sospechoso,phishing,"uso de palabras como paquete, entrega y código exclusivo"
+1088,0,phishing,mensaje genérico con enlace sospechoso y urgencia para hacer clic,phishing,uso de 'clic' y enlace sospechoso en contexto médico
+223,1,phishing,uso de marcadores de posición y falta de detalles específicos,legitimo,contenido relacionado con factura y comprobante fiscal
+1355,0,legitimo,correo con detalles específicos de compra y sin señales de phishing,legitimo,"contenido relacionado con compra y aviso de privacidad, sin palabras clave de phishing"
+1028,0,legitimo,contenido institucional y formal sin solicitudes sospechosas,legitimo,contenido institucional y académico sin términos asociados a phishing
+88,1,legitimo,correo comercial con información coherente y sin señales claras de phishing,legitimo,contenido comercial detallado y sin palabras asociadas a phishing
+752,0,phishing,"Cuerpo del correo vacío o malformado, típico de correos fraudulentos",legitimo,asunto formal y sin palabras asociadas a phishing
+1109,0,legitimo,consulta común sin solicitudes sospechosas,legitimo,consulta clara y sin palabras asociadas a phishing
+1267,0,phishing,mensaje genérico con enlace sospechoso y sin detalles específicos,legitimo,uso de términos formales y aviso de confidencialidad
+267,1,phishing,mensaje genérico con urgencia y enlaces sospechosos,phishing,"uso de palabras como paquete, entrega, suscripción y clic en contexto sospechoso"
+973,0,legitimo,correo con instrucciones claras y contacto específico para dudas,legitimo,contenido informativo y ausencia de palabras asociadas a phishing
+302,1,phishing,promesas de premios gratuitos y urgencia sospechosa,phishing,uso excesivo de palabras urgentes y promesas de premios
+780,0,legitimo,correo con detalles específicos y coherentes de un cobro legítimo,legitimo,uso de términos formales y contexto claro de cobro legítimo
+525,1,phishing,mensaje alarmista y con errores de codificación típicos de correos fraudulentos,phishing,uso de alerta urgente y amenaza de eliminación
+639,1,phishing,mensaje urgente con enlace para actualizar pago y remitente sospechoso,phishing,"uso de palabras como cuenta, pago, actualizar y urgencia en el mensaje"
+895,0,phishing,uso de enlaces sospechosos y solicitud de acción no solicitada,phishing,"uso de palabras cuenta, clic y código de seguridad sospechoso"
+1111,0,legitimo,mensaje informativo sin solicitudes sospechosas,legitimo,mensaje informativo sin palabras asociadas a phishing
+1045,0,legitimo,contenido formal y coherente sobre medidas oficiales de austeridad,legitimo,contenido formal y sin palabras asociadas a phishing
+1023,0,legitimo,Correo con invitación formal y sin indicios de fraude,legitimo,"invitación y saludo, palabras asociadas a legítimo"
+761,0,phishing,enlaces sospechosos y formato inconsistente,legitimo,mención clara de Google y aviso de seguridad legítimo
+923,0,phishing,enlace sospechoso y solicitud de datos sin verificación clara,legitimo,invitación a encuesta sin términos asociados a phishing y tono formal
+626,1,phishing,mensaje genérico con urgencia y falta de detalles específicos,phishing,uso de urgencia y amenaza para eliminar contenido
+873,0,legitimo,correo con información coherente y sin indicios de phishing,legitimo,uso de saludo formal y palabras asociadas a comunicación institucional
+276,1,phishing,"ofrece un regalo gratuito a cambio de completar una encuesta, técnica común de phishing",phishing,uso de palabras como encuesta y recibir para inducir acción rápida
+602,1,phishing,solicita información fiscal urgente mediante enlace sospechoso,phishing,"uso de palabras como cuenta, clic, ahora y enlace para actualizar información"
+614,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, tono urgente y solicitud de acción"
+1125,0,legitimo,mensaje formal y coherente de condolencia institucional,legitimo,mensaje de condolencia institucional sin términos sospechosos
+1338,0,legitimo,Correo de confirmación de registro a sesión informativa con detalles claros y sin solicitudes sospechosas,legitimo,registro confirmado y saludo formal sin palabras asociadas a phishing
+841,0,legitimo,comunicación interna formal sobre suspensión de labores,legitimo,comunicación institucional sin palabras asociadas a phishing
+1256,0,legitimo,correo con solicitud profesional clara y sin indicios de fraude,legitimo,contenido profesional y sin palabras asociadas a phishing
+754,0,legitimo,Correo con formato profesional y enlaces coherentes de Waze,legitimo,"contenido relacionado con seguridad y actualizaciones de app, sin palabras asociadas a phishing"
+105,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+97,1,phishing,ofrece dinero inesperado a cambio de colaboración confidencial,phishing,oferta sospechosa de dinero no solicitado
+1212,0,legitimo,contenido coherente y sin solicitudes sospechosas,legitimo,contenido institucional y educativo sin términos sospechosos
+661,1,phishing,mensaje genérico y urgencia para renovar sin detalles específicos,phishing,"uso de palabras suscripción y renueve, típico de phishing"
+108,1,phishing,mensaje genérico con enlaces sospechosos y falta de detalles específicos,phishing,uso repetido de palabras relacionadas con paquete y entrega
+1104,0,legitimo,mensaje coherente y relacionado con actividades académicas,legitimo,tema académico y saludo formal
+220,1,phishing,mensaje genérico con urgencia y enlace sospechoso,phishing,"paquete, entrega, suscripción y confirmar en el texto"
+1103,0,legitimo,correo relacionado con actividades académicas sin indicios de phishing,legitimo,contenido relacionado con presentación de tesis y sin palabras asociadas a phishing
+618,1,phishing,mensaje genérico con instrucciones sospechosas y posible intento de obtener acceso a documentos,phishing,"uso de palabras como 'documento', 'revisar', y enlace con código de acceso sospechoso"
+274,1,phishing,uso de lenguaje alarmista y errores en formato típicos de correos fraudulentos,phishing,"uso de palabras como cuenta, suscripción, actualizar y urgencia en el pago"
+970,0,phishing,solicita pago y datos personales por correo sin verificación oficial,legitimo,invitación a taller con detalles claros y sin palabras asociadas a phishing
+674,1,phishing,texto con formato extraño y solicitud sospechosa de datos de tarjeta,phishing,"uso de palabras como cuenta, clic, actualizar y solicitud de datos de tarjeta"
+1101,0,legitimo,mensaje institucional con felicitación y sin solicitudes sospechosas,legitimo,felicitación institucional sin términos sospechosos
+891,0,phishing,uso de caracteres extraños y URL sospechosa,legitimo,menciones de salud y promociones sin palabras asociadas a phishing
+89,1,phishing,mensaje genérico y solicitud de inversión urgente sospechosa,phishing,uso de urgencia y solicitud de contacto sin detalles claros
+1300,0,legitimo,El correo contiene elementos típicos de notificaciones oficiales de LinkedIn y enlaces para darse de baja y ayuda.,legitimo,contenido relacionado con notificaciones profesionales y ausencia de palabras asociadas a phishing
+1064,0,legitimo,correo con información institucional coherente y sin solicitudes sospechosas,legitimo,uso de términos formales y ausencia de palabras asociadas a phishing
+1106,0,legitimo,contenido formal y coherente de una circular interna,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+1137,0,legitimo,correo con intercambio coherente y sin indicios de fraude,legitimo,contenido profesional y sin palabras asociadas a phishing
+773,0,legitimo,contenido coherente y sin solicitudes sospechosas,legitimo,uso de palabras asociadas a legitimidad y contexto institucional
+565,1,phishing,mensaje con oferta sospechosa y llamada a acción urgente,phishing,"uso de palabras como clic, recibir y encuesta con tono urgente"
+1040,0,legitimo,correo promocional con enlaces claros y opción de baja,legitimo,tono personal y ausencia de palabras asociadas a phishing
+625,1,legitimo,correo promocional con información clara y cumplimiento normativo,phishing,"uso de palabras como cuenta, clic, ahora y oferta sospechosa"
+567,1,phishing,promesa de dinero inesperado y solicitud de contacto con tercero desconocido,phishing,promesa de dinero y solicitud de contacto sospechoso
+829,0,legitimo,correo promocional sin solicitudes sospechosas ni enlaces maliciosos,legitimo,"contenido relacionado con invitación y comunidad, sin palabras clave de phishing"
+818,0,legitimo,Información detallada y coherente sobre cambios de vuelo,legitimo,contenido relacionado con cambio de horario de vuelo sin palabras sospechosas de phishing
+55,1,phishing,mensaje con oferta inesperada y solicitud de acción urgente,phishing,"uso de palabras como cuenta, recibir y clic en contexto de regalo sospechoso"
+820,0,legitimo,convocatoria formal sin enlaces sospechosos ni solicitudes inusuales,legitimo,convocatoria formal sin palabras asociadas a phishing
+967,0,legitimo,correo con contenido detallado y específico sobre financiamiento estudiantil,legitimo,contenido detallado y específico sobre financiamiento universitario sin palabras asociadas a phishing
+385,1,phishing,"mensaje con errores, urgencia y enlaces sospechosos para robar datos",phishing,"uso de palabras como cuenta, suscripción, clic, actualizar y urgencia en el mensaje"
+952,0,legitimo,El correo contiene detalles personales y contexto coherente sin solicitudes sospechosas,legitimo,"contenido relacionado con trámite médico y salud, sin palabras asociadas a phishing"
+425,1,phishing,enlace sospechoso y dominio no oficial,phishing,enlace sospechoso y palabras relacionadas con cuenta y seguridad
+749,0,legitimo,correo con información detallada y coherente sobre cambios en políticas oficiales,legitimo,contenido formal sobre políticas y regulación financiera
+318,1,phishing,mensaje urgente con solicitud de acción y posible enlace sospechoso,phishing,uso de palabras urgentes y relacionadas con paquete y entrega
+624,1,phishing,mensaje con oferta sospechosa y urgencia para reclamar premio,phishing,"uso de palabras como 'clic', 'ahora' y oferta sospechosa"
+1276,0,legitimo,Correo con información detallada y coherente sobre un taller profesional,legitimo,contenido relacionado con taller educativo y sin palabras típicas de phishing
+1220,0,legitimo,El mensaje es informal y no solicita información sensible ni enlaces sospechosos.,legitimo,tono formal y sin palabras asociadas a phishing
+1162,0,legitimo,Correo con contexto coherente y detalles institucionales consistentes,legitimo,contenido formal y contexto académico con lenguaje profesional
+916,0,legitimo,correo promocional con enlaces y opción clara de anulación de suscripción,legitimo,contenido informativo y enlaces de suscripción claros
+628,1,phishing,uso de caracteres invisibles y solicitud sospechosa de documentos personales,phishing,uso de palabras clave sospechosas y solicitud de confirmación de identidad
+257,1,phishing,correo sin asunto y con enlaces genéricos que pueden inducir a error,legitimo,contenido formal y específico sobre obligaciones fiscales sin palabras típicas de phishing
+335,1,phishing,Errores gramaticales y solicitud sospechosa de acción urgente,phishing,"uso de palabras relacionadas con paquete, entrega, clic y urgencia"
+1333,0,legitimo,correo con formato y datos consistentes de BBVA,legitimo,uso de términos formales y presencia de aviso de privacidad
+670,1,phishing,mensaje genérico con llamada a acción sospechosa y sin detalles específicos,phishing,uso de 'haga clic' y mensaje urgente sin detalles claros
+1320,0,legitimo,correo típico de invitación a un sitio de genealogía con información coherente y sin señales claras de phishing,legitimo,invitación clara y cordial con contexto familiar y enlaces esperados
+1118,0,legitimo,Correo institucional con información coherente y sin solicitudes sospechosas,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+723,1,phishing,mensaje con errores y solicitud sospechosa de información,phishing,"uso de palabras relacionadas con paquete y entrega, y tono urgente"
+1161,0,legitimo,Correo institucional con detalles específicos y sin indicios de phishing,legitimo,contenido formal y relacionado con actividad académica
+1293,0,phishing,enlaces sospechosos y formato poco profesional,legitimo,uso de términos relacionados con Google y aviso oficial sobre almacenamiento
+1066,0,legitimo,contenido coherente y sin indicios de fraude,legitimo,contenido relacionado con comunidad y eventos sin términos sospechosos de phishing
+587,1,phishing,"mensaje con errores, urgencia y enlaces sospechosos para robar datos",phishing,"uso de palabras como cuenta, suscripción, clic, actualizar y tono urgente"
+126,1,phishing,"mensaje con errores, promesas sospechosas y solicitud de información",phishing,uso de premio inesperado y solicitud de respuestas
+788,0,legitimo,correo con información institucional coherente y sin solicitudes sospechosas,legitimo,uso de palabras formales y contexto académico sin términos asociados a phishing
+699,1,phishing,enlace sospechoso y mensaje genérico para inducir clic,phishing,uso de clic para visualizar y alerta de remitente externo
+751,0,legitimo,mensaje institucional con información coherente y sin solicitudes sospechosas,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+956,0,phishing,solicita información personal y documentos sensibles sin verificación clara,legitimo,"contenido relacionado con proceso de selección y documentos, sin palabras típicas de phishing"
+848,0,phishing,contenido sospechoso con datos inconsistentes y formato extraño,legitimo,registro oficial con datos detallados y sin palabras asociadas a phishing
+1083,0,phishing,mensaje genérico con placeholders y enlace sospechoso,phishing,uso de palabras 'pago' y 'confirmar' y mensaje genérico con enlace
+84,1,phishing,oferta financiera sospechosa con urgencia y datos incompletos,phishing,oferta financiera sospechosa con urgencia y datos de contacto poco confiables
+672,1,phishing,mensaje urgente con amenazas y errores en fechas,phishing,"uso de palabras como cuenta, suscripción, renovar y advertencia urgente"
+951,0,legitimo,correo relacionado con comentarios académicos y colaboración en documentos,legitimo,contenido académico y profesional sin términos asociados a phishing
+333,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+393,1,phishing,mensaje urgente con enlace para confirmar datos y errores en formato,phishing,"uso repetido de palabras relacionadas con paquete y entrega, típico de phishing"
+727,1,phishing,uso de enlace genérico y presión para descargar documento importante,phishing,uso de enlace para descargar certificado y mención de pago adicional
+1284,0,phishing,mensaje con formato sospechoso y enlaces potencialmente maliciosos,legitimo,mención de privacidad y términos de Mercado Libre
+680,1,phishing,solicita información de entrega y contiene errores sospechosos,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de acción"
+1277,0,legitimo,correo con información detallada y contacto institucional válido,legitimo,"contenido relacionado con educación y datos personales, sin palabras clave de phishing"
+1249,0,phishing,solicita devolución de dinero y envío de comprobantes por correo electrónico,legitimo,uso formal y contexto institucional claro
+797,0,phishing,solicita código OTP sin contexto claro y usa nombre de empresa no relacionada con Amazon,legitimo,mensaje de verificación con advertencia de seguridad y sin palabras asociadas a phishing
+937,0,legitimo,mensaje institucional coherente y sin solicitudes sospechosas,legitimo,contenido institucional y formal sin palabras asociadas a phishing
+577,1,phishing,uso de caracteres extraños en el asunto y solicitud sospechosa de documentos,phishing,"uso de palabras como cuenta, confirmar, seguridad y solicitud de acción urgente"
+178,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+506,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago, actualizar y amenaza de borrar fotos"
+861,0,phishing,uso inconsistente de nombres y llamada a acción sospechosa,legitimo,"uso de palabras relacionadas con app, asistencia y soporte, sin términos típicos de phishing"
+244,1,phishing,mensaje urgente con errores y solicitud de acción sospechosa,phishing,"uso de palabras como paquete, entrega, clic y urgencia para resolver"
+1356,0,phishing,uso de enlaces genéricos y solicitud de cancelar suscripción sospechosa,phishing,uso de signo de exclamación y enlace para cancelar suscripción sospechoso
+766,0,legitimo,contenido coherente y profesional relacionado con servicios médicos y seguros,legitimo,"contenido relacionado con salud y póliza, sin palabras típicas de phishing"
+871,0,legitimo,correo con información específica y sin solicitudes sospechosas,legitimo,uso de términos formales y presencia de aviso legal y política de privacidad
+82,1,phishing,ofrece extensión gratuita sospechosa y contiene errores y direcciones falsas,phishing,"uso de palabras como cuenta, suscripción, clic y urgencia en el mensaje"
+121,1,phishing,uso de caracteres extraños y urgencia para actualizar método de pago,phishing,"uso de palabras como pago, cuenta, actualizar y urgencia"
+959,0,legitimo,correo con información clara y contexto educativo sin solicitudes sospechosas,legitimo,invitación a excursión educativa sin palabras asociadas a phishing
+1348,0,legitimo,correo con información coherente y enlaces relacionados a la empresa mencionada,legitimo,"uso de palabras como privacidad, aviso y encuesta, y contexto coherente con salud"
+1365,0,legitimo,correo relacionado con una sesión de certificación con detalles específicos y opción de baja,legitimo,contenido relacionado con formación y sin palabras clave de phishing
+992,0,legitimo,correo con información clara y sin solicitudes sospechosas,legitimo,promoción clara y sin términos asociados a phishing
+254,1,phishing,mensaje con errores y solicitud de acción sospechosa,phishing,"uso de palabras como paquete, entrega, clic y urgencia sospechosa"
+979,0,legitimo,Correo con detalles específicos de vuelo y lenguaje formal de Aeroméxico,legitimo,contenido detallado y coherente de viaje con términos y condiciones
+40,1,phishing,mensaje vago con archivo adjunto inesperado,legitimo,mensaje corto y formal sin palabras asociadas a phishing
+1034,0,legitimo,invitación a reunión académica con detalles coherentes y remitente conocido,legitimo,invitación académica con detalles específicos y sin palabras asociadas a phishing
+308,1,phishing,promesas de premios inesperados y urgencia para hacer clic,phishing,"uso de palabras como 'recibir', 'clic', 'ahora' y tono urgente con premio"
+116,1,phishing,mensaje genérico con urgencia y solicitud de acción sospechosa,phishing,"uso de palabras como paquete, entrega, suscripción y urgencia en el mensaje"
+1215,0,legitimo,correo con información coherente y sin señales de phishing,legitimo,invitación formal y sin palabras asociadas a phishing
+885,0,legitimo,convocatoria oficial con detalles específicos y sin solicitudes sospechosas,legitimo,uso de términos formales y ausencia de palabras asociadas a phishing
+1140,0,legitimo,correo relacionado con corrección de factura y proceso estándar de facturación,legitimo,"contenido formal y relacionado con facturación, sin palabras típicas de phishing"
+152,1,phishing,mensaje urgente con premio y enlace sospechoso,phishing,uso de palabras urgentes y llamada a clic sospechosa
+92,1,phishing,mensaje alarmista y sin detalles específicos,phishing,uso de palabras urgentes y amenaza de eliminación para inducir acción rápida
+932,0,legitimo,correo con solicitud común y sin indicios de fraude,legitimo,uso de palabras formales y contexto laboral sin términos asociados a phishing
+500,1,phishing,"mensaje con errores, urgencia y enlaces sospechosos",phishing,"uso de palabras como cuenta, suscripción, clic y actualizar en contexto sospechoso"
+900,0,phishing,enlace para reprogramar entrega sospechoso y remitente desconocido,phishing,"uso de palabras relacionadas con paquete y entrega, y llamado a hacer clic"
+1384,0,phishing,uso de enlaces genéricos y solicitud de acciones sospechosas,legitimo,saludo y agradecimiento sin términos sospechosos
+1324,0,legitimo,"Correo con formato y enlaces típicos de AliExpress, sin señales claras de phishing",legitimo,"contenido relacionado con compras y políticas claras, sin palabras clave de phishing"
+606,1,phishing,promesas de alta rentabilidad y enlaces sospechosos,legitimo,uso de términos legales y aviso de privacidad
+464,1,phishing,mensaje genérico con urgencia y enlace para rastreo sospechoso,phishing,"uso de palabras relacionadas con paquete y entrega, y urgencia para rastrear"
+356,1,phishing,promesas de regalos gratuitos y urgencia sospechosa,phishing,"uso de palabras como paquete, reclamar, clic y tono urgente"
+675,1,phishing,promesas de premios inesperados y solicitud de acción rápida,phishing,"uso de palabras como 'clic', 'recibir', y tono de premio sospechoso"
+540,1,phishing,enlace sospechoso y urgencia para cancelar cambio,phishing,uso de palabras relacionadas con cuenta y enlace sospechoso
+473,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y llamado a hacer clic"
+487,1,phishing,solicita información sensible mediante un enlace sospechoso,phishing,"uso de palabras como cuenta, clic y corregir problema en contexto de tarjeta"
+774,0,legitimo,correo institucional con información coherente y sin señales de phishing,legitimo,uso de términos formales y ausencia de palabras asociadas a phishing
+736,0,legitimo,correo con términos claros y promoción coherente de Uber,legitimo,uso de términos claros y promoción detallada de Uber
+381,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como iCloud, suscripción, pago y actualizar con tono urgente"
+552,1,phishing,enlace sospechoso y falta de personalización,legitimo,"uso de palabras como aviso, actividad y política de seguridad"
+1079,0,phishing,mensaje genérico y falta de enlaces oficiales claros,legitimo,contenido formal y relacionado con obligaciones fiscales
+161,1,phishing,mensaje genérico que induce urgencia y solicita acción sin detalles específicos,phishing,uso de urgencia y solicitud de acción inmediata
+886,0,legitimo,Correo con contenido esperado y sin indicios de phishing,legitimo,asunto relacionado con tesis y aviso de confidencialidad
+917,0,legitimo,invitación institucional clara y sin solicitudes sospechosas,legitimo,invitación académica con palabras asociadas a comunidad y evento oficial
+452,1,phishing,uso de caracteres extraños en el asunto y solicitud de información personal,phishing,"uso de palabras como cuenta, confirmar, seguridad y solicitud urgente"
+68,1,phishing,mensaje urgente con solicitud de acción y falta de detalles específicos,phishing,"uso de palabras como paquete, entrega, código de seguimiento y urgencia"
+906,0,legitimo,correo con solicitud clara y documentos relacionados a trámites fiscales,legitimo,contenido formal y relacionado con trámites fiscales sin palabras asociadas a phishing
+146,1,phishing,contenido ilegible y uso de caracteres extraños típicos de correos fraudulentos,phishing,"uso de palabras relacionadas con cuenta y restricción, típico en phishing"
+817,0,legitimo,comunicado interno institucional sin solicitudes sospechosas,legitimo,comunicación institucional formal sin términos asociados a phishing
+908,0,legitimo,correo con solicitud detallada y formal de documentos legales,legitimo,contenido formal y relacionado con documentos legales sin palabras asociadas a phishing
+322,1,phishing,uso de caracteres extraños en el asunto y solicitud de documentos personales,phishing,"uso de palabras como cuenta, confirmar, seguridad y solicitud de acción urgente"
+320,1,phishing,"mensaje con urgencia, errores gramaticales y solicitud de actualización de pago sospechosa",phishing,"uso de palabras como cuenta, suscripción, clic, actualizar y tono urgente"
+359,1,phishing,promesa de premio inesperado y enlace sospechoso,phishing,uso de palabras como 'clic' y oferta sospechosa con urgencia
+837,0,legitimo,correo institucional con información clara y sin solicitudes sospechosas,legitimo,comunicación interna formal sobre pagos
+850,0,legitimo,mensaje coherente y sin solicitudes sospechosas,legitimo,uso de términos formales y ausencia de palabras asociadas a phishing
+1381,0,legitimo,correo con formato y contenido coherente de Google sobre historial de ubicaciones,legitimo,"contenido relacionado con historial de ubicaciones y Google, sin palabras típicas de phishing"
+1252,0,legitimo,correo con contenido coherente y sin indicios de phishing,legitimo,uso de palabras como saludo y organización de clase sin términos sospechosos
+113,1,phishing,Urgencia excesiva y oferta poco realista de descuento,phishing,uso de palabras urgentes y de suscripción con descuento exagerado
+559,1,phishing,mensaje genérico con urgencia y enlace para rastrear paquete sospechoso,phishing,"uso de palabras como paquete, entrega y recibir, y tono urgente"
+843,0,legitimo,mensaje coherente y sin solicitudes sospechosas,legitimo,uso de términos oficiales y ausencia de palabras asociadas a phishing
+1008,0,legitimo,correo institucional con información coherente y sin indicios de phishing,legitimo,uso de palabras asociadas a legitimidad y contexto académico
+1168,0,legitimo,El correo contiene detalles específicos y coherentes sobre la reparación solicitada y una respuesta profesional sin solicitudes sospechosas.,legitimo,contenido relacionado con soporte técnico sin palabras asociadas a phishing
+667,1,phishing,Errores ortográficos y urgencia sospechosa en el mensaje,phishing,"uso de palabras como paquete, entrega, ahora y tono urgente"
+395,1,phishing,mensaje genérico con enlace sospechoso para confirmar datos,phishing,"uso de palabras relacionadas con paquete y entrega, y solicitud de confirmación"
+582,1,phishing,solicita pago urgente sin detalles claros ni confirmación oficial,phishing,"uso de palabras como paquete, entrega, pago y urgencia para completar acción"
+677,1,phishing,solicita pago urgente mediante enlace sospechoso,phishing,"uso de palabras como paquete, pago, clic y urgencia en el mensaje"
+233,1,phishing,promesas de premios rápidos y urgencia sospechosa,phishing,uso de urgencia y premio para inducir clic
+321,1,phishing,solicita firmar un documento adjunto sin verificar la autenticidad,legitimo,contenido formal y relacionado con la universidad sin palabras asociadas a phishing
+524,1,phishing,mensaje urgente con amenaza y enlace sospechoso para validar datos,phishing,uso de urgencia y solicitud de validar cuenta mediante enlace
+315,1,phishing,uso de urgencia extrema y oferta sospechosa para presionar renovación,phishing,uso de palabras urgentes y suscripción con descuento sospechoso
+378,1,phishing,mensaje genérico y solicitud de activación sospechosa,phishing,uso de términos de seguridad y activación sospechosa
+598,1,phishing,promesas de premios inesperados y urgencia para reclamar,phishing,uso de palabras como recibir y clic para premio sospechoso
+15,1,phishing,mensaje sospechoso con detalles inconsistentes y enlace potencialmente malicioso,phishing,alerta de inicio de sesión sospechosa y urgencia para revisar
+1376,0,phishing,múltiples enlaces sospechosos y falta de personalización,legitimo,uso de términos relacionados con Google y aviso de servicio oficial
+1003,0,legitimo,Correo relacionado con inscripción a taller sin solicitudes sospechosas,legitimo,contenido relacionado con inscripción y saludo cordial
+125,1,phishing,uso de presión para descargar certificado mediante enlace desconocido,phishing,uso de enlace para descargar certificado y mención de pago adicional
+974,0,legitimo,El correo presenta formato y contenido coherente con comunicaciones oficiales de Google,legitimo,múltiples menciones de Google y enlaces a gestión de cuenta legítima
+1167,0,legitimo,correo con detalles claros de servicio y contacto empresarial,legitimo,contenido detallado y formal sobre servicio técnico con datos específicos
+983,0,phishing,solicita respaldo urgente sin detalles claros ni verificación oficial,legitimo,uso de términos institucionales y contexto formal
+657,1,phishing,mensaje urgente con enlace sospechoso y errores en el texto,phishing,"uso de palabras relacionadas con paquete y entrega, tono urgente y solicitud de confirmación"
+570,1,phishing,mensaje genérico con urgencia y solicitud de información,phishing,"uso de palabras relacionadas con paquete, entrega y recibir, y tono urgente"
+679,1,phishing,mensaje urgente con enlace para confirmar y código de seguimiento genérico,phishing,"uso de palabras como paquete, entrega, clic y suscripción con urgencia"
+31,1,phishing,promesas de premios exclusivos y solicitud de respuesta para reclamar,phishing,"uso de palabras como 'pedido', 'recibir', 'ahora' y tono urgente para obtener datos"
+502,1,phishing,promesa de premio inesperado y solicitud rápida de acción,phishing,"uso de palabras como paquete, recibir, clic y urgencia para reclamar premio"
+865,0,phishing,"enlaces y números genéricos, falta de personalización y solicitud de activación sospechosa",phishing,"uso de palabras como pago, recibo, confirmar y clic que suelen asociarse a phishing"
+1010,0,legitimo,invitación formal y coherente de una institución científica,legitimo,invitación formal con lenguaje institucional y saludo cordial
+924,0,phishing,enlace sospechoso y discrepancia en fechas,legitimo,uso de palabras relacionadas con tesis y saludo formal
+927,0,legitimo,mensaje coherente y sin solicitudes sospechosas,legitimo,mensaje relacionado con entrega física y sin palabras asociadas a phishing
+686,1,phishing,oferta sospechosa con urgencia y solicitud de confirmación,phishing,uso de 'confirmar' y 'paquete' en oferta sospechosa
+275,1,phishing,"uso de caracteres invisibles y errores para evadir filtros, además de urgencia y enlace sospechoso",phishing,"uso de palabras sospechosas como cuenta, seguridad y clic, además de intento de urgencia para iniciar sesión"
+294,1,phishing,Errores ortográficos y formato sospechoso en el correo,phishing,"uso de palabras como suscripción, pago y reactivar"
+493,1,phishing,mensaje urgente con enlace sospechoso y falta de detalles claros,phishing,"uso de palabras como paquete, entrega, clic y suscripción con urgencia"
+278,1,phishing,oferta de descuento exagerada y urgencia sospechosa,phishing,uso de palabras urgentes y oferta sospechosa de descuento
+193,1,phishing,mensaje con urgencia y formato sospechoso para obtener datos,phishing,"uso de palabras como paquete, entrega, recibir y cancelar suscripción"
+609,1,phishing,mensaje con urgencia y enlaces sospechosos para confirmar datos,phishing,"uso de palabras como paquete, entrega, suscripción y clic en contexto sospechoso"
+678,1,phishing,mensaje con errores gramaticales y solicitud de reactivación sospechosa,phishing,"uso de palabras como suscripción, pago y reactivar, típico de phishing"
+1074,0,legitimo,Correo típico de notificación de plataforma educativa Udemy,legitimo,notificación de curso sin palabras asociadas a phishing
+234,1,phishing,correo genérico con enlace de rastreo sospechoso y falta de detalles específicos,phishing,"uso de palabras como paquete, entrega y clic en un contexto sospechoso"
+660,1,phishing,"mensaje con premio inesperado y urgencia para reclamar, típico de phishing",phishing,uso de palabras como recibir y clic implícito en reclamo de premio
+1090,0,legitimo,El correo parece una corrección o aclaración sin solicitudes sospechosas,legitimo,saludo cordial y aclaración sin palabras asociadas a phishing
+467,1,phishing,No incluye el nombre completo del destinatario y solicita confirmación de identidad mediante documentos,phishing,"uso de palabras como cuenta, confirmar, seguridad y solicitud de acción urgente"
+1228,0,phishing,enlace sospechoso y solicitud de ejecutar scripts sin verificación,legitimo,contenido técnico y colaborativo sin términos asociados a phishing
+627,1,phishing,mensaje genérico con urgencia y enlace sospechoso,phishing,uso repetido de palabras relacionadas con paquete y entrega
+326,1,phishing,mensaje alarmista con errores y solicitud de actualización de pago sospechosa,phishing,"uso de palabras como suscripción, pago, actualizar y amenaza de borrar fotos"
+67,1,phishing,mensaje urgente con solicitud de pago y enlace sospechoso,phishing,"uso de palabras como paquete, entrega, suscripción y clic"
+999,0,legitimo,correo detallado y coherente de un centro educativo con información clara y contacto válido,legitimo,contenido informativo y profesional sin términos asociados a phishing
+980,0,phishing,múltiples enlaces sospechosos y formato inconsistente,legitimo,múltiples enlaces a plataformas conocidas y ausencia de palabras asociadas a phishing
+1280,0,legitimo,Correo con formato y contenido coherente de YouTube Premium,legitimo,correo relacionado con suscripción oficial de YouTube con enlaces a ayuda y políticas
+665,1,phishing,mensaje sospechoso con enlace y advertencia de remitente externo,phishing,uso de 'clic aquí' y alerta sospechosa de aprobación
+85,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, y tono urgente"
+1319,0,legitimo,correo consistente con notificaciones oficiales de Google Local Guides,legitimo,"múltiples referencias a Google y comunidad, sin palabras clave de phishing"
+69,1,phishing,mensaje urgente con errores y solicitud de acción inmediata sospechosa,phishing,"uso de palabras como paquete, entrega, suscripción y urgencia en el mensaje"
+365,1,phishing,Errores gramaticales y solicitud sospechosa de información,phishing,"uso de palabras relacionadas con paquete y entrega, tono urgente y solicitud de acción"
+314,1,phishing,mensaje genérico con urgencia y enlace sospechoso,phishing,uso repetido de palabras relacionadas con paquete y entrega para inducir acción
+1281,0,phishing,mensaje inesperado que intenta inducir a hacer clic en un enlace sospechoso,legitimo,múltiples indicios de regulación y contacto oficial
+682,1,phishing,mensaje urgente con enlace para confirmar y código de seguimiento genérico,phishing,"uso de palabras como paquete, entrega, clic y suscripción en contexto sospechoso"
+448,1,phishing,mensaje urgente con enlace sospechoso y errores en el texto,phishing,"uso de palabras como paquete, entrega, clic y suscripción con urgencia"
+653,1,phishing,mensaje con urgencia y solicitud de información personal sospechosa,phishing,"uso de palabras relacionadas con paquete y entrega, tono urgente y solicitud de información"
+1308,0,phishing,solicita ingresar datos en un enlace no verificado,legitimo,uso de términos formales y aviso de privacidad institucional
+81,1,phishing,mensaje urgente con errores y solicitud de actualización de datos sospechosa,phishing,"uso de palabras como cuenta, actualizar, pago y tono urgente"
+490,1,phishing,errores ortográficos y solicitud sospechosa de datos personales,phishing,solicita confirmar datos y contiene errores ortográficos
+219,1,phishing,uso de urgencia y enlace sospechoso para actualizar datos de pago,phishing,"uso de palabras como cuenta, pago, actualizar y clic con urgencia"
+710,1,phishing,mensaje genérico y falta de detalles específicos,phishing,"uso de palabras 'paquete', 'entrega' y 'recibir' asociadas a phishing"

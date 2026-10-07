@@ -1,0 +1,9 @@
+# Solo se publica lo que necesitan los estudiantes. Todo lo demás queda fuera del repositorio.
+/*
+!/.gitignore
+!/README.md
+!/cuadernos/
+!/datos/
+!/scripts/
+/scripts/*
+!/scripts/preparar_phishing.py
